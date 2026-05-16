@@ -119,7 +119,7 @@ cd Pro_Fin_GEVM
 ```sql
 -- 2. Crear la base de datos en MySQL
 CREATE DATABASE andromeda;
-USE andromeda;
+USE Pro_Fin_GEVM;
 -- Importar el script SQL del proyecto (si existe en /src/conf/)
 ```
 
