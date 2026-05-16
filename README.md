@@ -15,7 +15,7 @@ Cursos, tips, noticias y recursos para dominar la IA como herramienta al servici
 
 ---
 
-## 📖 Sobre el proyecto
+## Sobre el proyecto
 
 **Andrómeda** es una aplicación web desarrollada con Java EE y JSP cuyo propósito es acercar la Inteligencia Artificial a cualquier persona, sin importar su nivel técnico.
 
@@ -28,7 +28,7 @@ La plataforma ofrece:
 
 ---
 
-## ✨ Funcionalidades principales
+## Funcionalidades principales
 
 | Módulo | Descripción |
 |--------|-------------|
@@ -156,7 +156,7 @@ Run Project (F6)
 
 ---
 
-## 🤝 Contribuciones
+## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si quieres mejorar Andrómeda:
 
@@ -169,5 +169,7 @@ Run Project (F6)
 <div align="center">
 
 Hecho con cariño para quienes quieren entender la IA, no temerle.
+
+En desarrollo por Gerardo Villegas, estudiante de Informática.
 
 </div>
