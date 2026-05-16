@@ -110,8 +110,10 @@ PROYECTOFINAL/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/andromeda.git
-cd andromeda
+git clone https://github.com/MisterG2809/Pro_Fin_GEVM
+
+cd Pro_Fin_GEVM
+
 ```
 
 ```sql
@@ -134,7 +136,7 @@ Services → Servers → Add Server → GlassFish Server
 
 # 6. Ejecutar el proyecto
 Run Project (F6)
-→ Se abrirá automáticamente en: http://localhost:8080/Andromeda
+→ Se abrirá automáticamente en: http://localhost:8080/Pro_Fin_GEVM
 ```
 
 ---
